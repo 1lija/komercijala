@@ -1,0 +1,9 @@
+.card-img-top {
+    height: 200px; /* Postavite željenu visinu */
+    object-fit: cover; /* Zadržava proporcije slike i ispunjava okvir */
+}
+
+.img-fluid{
+    height: 300px !important;
+    object-fit: cover;
+}
